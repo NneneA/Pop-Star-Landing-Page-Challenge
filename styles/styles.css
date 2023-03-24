@@ -1,0 +1,74 @@
+body {
+}
+
+div.container {
+  padding: 0;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+div .col {
+  padding: 0;
+}
+
+.tracy1 {
+  opacity: 0.2;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.tracy2 {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.tracy1,
+.tracy2 {
+  width: 700px;
+  height: 600px;
+}
+
+.name-text {
+  margin-top: -550px;
+  /*margin-left: 100px;*/
+  font-family: "kunstler Script";
+  font-size: 70px;
+  font-weight: 900;
+  color: #44043e;
+  text-align: center;
+}
+
+.hits {
+  font-family: "Poppins", sans-serif;
+}
+
+.heading {
+  font-size: 32px;
+  font-weight: 500;
+  margin-left: 65px;
+}
+
+.hit-songs {
+  list-style: none;
+  padding: 0;
+  margin-left: 65px;
+}
+
+li {
+  font-size: 18px;
+  margin-bottom: 15px;
+  font-weight: 500;
+}
+
+.listen-text {
+  margin-top: -100px;
+  color: white;
+  margin-left: 128px;
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.spotify {
+  color: green;
+}
