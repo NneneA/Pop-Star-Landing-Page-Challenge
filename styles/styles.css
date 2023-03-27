@@ -69,6 +69,50 @@ li {
   font-weight: 500;
 }
 
+.listen-text p {
+  margin-bottom: 0;
+}
+
 .spotify {
-  color: green;
+  color: #1fdf64;
+  margin-left: -67px;
+  margin-bottom: 17px;
+}
+
+.youtube {
+  color: #ff0000;
+  margin-bottom: 15px;
+  margin-left: 23px;
+}
+
+a svg {
+  margin-bottom: 36px;
+  margin-left: 23px;
+}
+
+.itunes {
+  width: 31px;
+  margin-left: 23px;
+  margin-bottom: 34px;
+}
+
+.soundcloud {
+  width: 45px;
+  margin-left: 23px;
+  margin-bottom: 30px;
+}
+
+.deezer {
+  width: 31px;
+  margin-left: 23px;
+  margin-bottom: 36px;
+}
+
+.tidal {
+  width: 31px;
+  margin-left: 23px;
+  margin-bottom: 35px;
+  background-color: white;
+  border-radius: 50%;
+ 
 }
